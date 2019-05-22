@@ -6,3 +6,11 @@ This repository contains source codes for some of the problems I solved on onlin
 
 *  Recording some videos to explain solutions for some problems for juniors ,some topics like STL in C++
  (in Arabic)[YouTube playlist](https://www.youtube.com/channel/UCCH8yNJMxFsfWq7hJ-Ag4gg?view_as=subscriber) 
+
+
+# My Competitive Programming Trip
+
+### Competitions Achievements
+
+*  1st Place in ACM ICPC UpperEgypt programming contest 2016 & 2017
+
