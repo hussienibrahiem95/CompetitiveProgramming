@@ -12,5 +12,5 @@ This repository contains source codes for some of the problems I solved on onlin
 
 ### Competitions Achievements
 
-*  1_st Place in ACM ICPC UpperEgypt programming contest 2016 & 2017
+*  1<sup>st</sup> Place in ACM ICPC UpperEgypt programming contest 2016 & 2017
 
