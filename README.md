@@ -7,7 +7,7 @@ This repository contains source codes for some of the problems I solved on onlin
 *  Recording some videos to explain solutions for some problems for juniors ,some topics like STL in C++
  (in Arabic)[YouTube playlist](https://www.youtube.com/channel/UCCH8yNJMxFsfWq7hJ-Ag4gg?view_as=subscriber) 
 
-
+* [ICPC Profile ] (https://icpc.baylor.edu/ICPCID/LDIDJS5NF3QD)
 # My Competitive Programming Trip
 
 ### Competitions Achievements
@@ -46,3 +46,6 @@ This repository contains source codes for some of the problems I solved on onlin
 *  **3<sup>st</sup>** Place in IEEE Minia SB ll Problem solving Competition  2019 ( Team Contest ).
 
 *  **3<sup>st</sup>** Place in IEEEXtreme 2016 - ERROR Camp  ( Individual Contest ).  [Standing](https://codeforces.com/group/yDgfwmKNMS/contest/205446/standings/groupmates/true).
+
+
+*  Semi-finalist, Codechef SNAKDOWN. Qualified to semi-finals out of +19K teams around the world 2017
