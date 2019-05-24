@@ -20,9 +20,9 @@ This repository contains source codes for some of the problems I solved on onlin
 
 *  **3<sup>st</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest 2016 Out of 40+ team from UpperEgypt.
 
-*  **3<sup>st</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest 2017 Out of 44 team from Assiut University.
-
 *  **3<sup>st</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest 2018 Out of 35 team from Assiut University.
+
+*  **3<sup>st</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest 2017 Out of 44 team from Assiut University.
 
 *  **3<sup>st</sup>** Place in ACM ICPC **Egyptian** Collegiate Programming Contest 2019 Out of 160 team from Egypt (**Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest**).
 
@@ -32,5 +32,12 @@ This repository contains source codes for some of the problems I solved on onlin
 
 *  **3<sup>st</sup>** Place in ACM ICPC **Egyptian** Collegiate Programming Contest 2016 Out of 130 team from Egypt.
 
+*  **3<sup>st</sup>** Place in ACM ICPC **Arab & Africa** Collegiate Programming Contest 2017 Out of 120 team from Arab&Africa Countries.
 
+*  **3<sup>st</sup>** Place in ACM ICPC **Arab & Africa** Collegiate Programming Contest 2019 Out of 140 team from Arab&Africa Countries.
+
+
+*  **3<sup>st</sup>** Place in Ain-Shams university level one contest 2016 ( Individual Contest ).
+
+*  **3<sup>st</sup>** Place in Ain-Shams university local contest 2016 ( Team Contest ).
 
