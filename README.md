@@ -43,3 +43,6 @@ This repository contains source codes for some of the problems I solved on onlin
 
 *  **3<sup>st</sup>** Place in Ain-Shams university local contest 2016 ( Team Contest ).
 
+*  **3<sup>st</sup>** Place in IEEE Minia SB ll Problem solving Competition  2019 ( Team Contest ).
+
+*  **3<sup>st</sup>** Place in IEEEXtreme 2016 - ERROR Camp  ( Individual Contest ).  [Standing](https://codeforces.com/group/yDgfwmKNMS/contest/205446/standings/groupmates/true).
