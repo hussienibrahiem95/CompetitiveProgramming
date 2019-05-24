@@ -37,7 +37,9 @@ This repository contains source codes for some of the problems I solved on onlin
 *  **3<sup>st</sup>** Place in ACM ICPC **Arab & Africa** Collegiate Programming Contest 2019 Out of 140 team from Arab&Africa Countries.
 
 
-*  **3<sup>st</sup>** Place in Ain-Shams university level one contest 2016 ( Individual Contest ).
+*  **3<sup>st</sup>** Place in Ain-Shams university level one contest 2016 ( Individual Contest ) [Standing](https://codeforces.com/group/iRheA985aq/contest/205996/standings/groupmates/true).
+
+.
 
 *  **3<sup>st</sup>** Place in Ain-Shams university local contest 2016 ( Team Contest ).
 
