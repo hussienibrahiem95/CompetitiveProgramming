@@ -53,5 +53,5 @@ This repository contains source codes for some of the problems I solved on onlin
 
 ###Judge, Chief Judge, Problem Setter
 
-*  Chief Judge and Problem Setter in Olympics of Computer and information Contest Assiut 2019  [Standing] (https://codeforces.com/group/B45Q3zlpw8/contest/238002/standings/groupmates/true) , [Problems] (https://codeforces.com/group/B45Q3zlpw8/contest/238002/problems)
-*  Chief Judge and Problem Setter Clash of coders Contest 2019 [Standing] (https://codeforces.com/group/6xgKFebZ67/contest/232911/standings/groupmates/true) , [Problems] (https://codeforces.com/group/6xgKFebZ67/contest/232911/problems)
+*  Chief Judge and Problem Setter in Olympics of Computer and information Contest Assiut 2019  [Standing](https://codeforces.com/group/B45Q3zlpw8/contest/238002/standings/groupmates/true) , [Problems](https://codeforces.com/group/B45Q3zlpw8/contest/238002/problems)
+*  Chief Judge and Problem Setter Clash of coders Contest 2019 [Standing](https://codeforces.com/group/6xgKFebZ67/contest/232911/standings/groupmates/true) , [Problems](https://codeforces.com/group/6xgKFebZ67/contest/232911/problems)
