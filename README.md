@@ -51,7 +51,14 @@ This repository contains source codes for some of the problems I solved on onlin
 *  Semi-finalist, Codechef SNAKDOWN. Qualified to semi-finals out of +19K teams around the world 2017
 
 
-###Judge, Chief Judge, Problem Setter
+### Judge, Chief Judge, Problem Setter
+
+*  Preparing and judging programming contests online and onsite for Training ( juniors , seniors ) in ICPC Assiut University Community.
 
 *  Chief Judge and Problem Setter in Olympics of Computer and information Contest Assiut 2019  [Standing](https://codeforces.com/group/B45Q3zlpw8/contest/238002/standings/groupmates/true) , [Problems](https://codeforces.com/group/B45Q3zlpw8/contest/238002/problems)
+
 *  Chief Judge and Problem Setter Clash of coders Contest 2019 [Standing](https://codeforces.com/group/6xgKFebZ67/contest/232911/standings/groupmates/true) , [Problems](https://codeforces.com/group/6xgKFebZ67/contest/232911/problems)
+
+*  Judge & Problem Setter in Programming Champions League 2018 .it was 5 Programming Contests between many universities from Egypt to decide the best [Link Group](https://codeforces.com/group/r2KqHsBZRP/contests).
+
+
