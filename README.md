@@ -61,4 +61,11 @@ This repository contains source codes for some of the problems I solved on onlin
 
 *  Judge & Problem Setter in Programming Champions League 2018 .it was 5 Programming Contests between many universities from Egypt to decide the best [Link Group](https://codeforces.com/group/r2KqHsBZRP/contests).
 
+### Coaching
+* Coaching Senior problem solvers in ICPC Assiut University Community.
+* Managing training system for junior,senior Problem Solvers in ICPC Assiut University Community.
+* Mentoring junior trainees to enhance their problem solving skills and prepare them to participate in programming contests.
+* Coaching First Team in Olympiad Contest 2019 Problem Solving Contest Among all computer science faculties in Egypt.
+* Coaching most teams in ICPC Assiut University Community and there are 2 Teams Qualified ACM ICPC Arab & Africa Collegiate Programming Contest 2019.
+* Training Head in ICPC Assiut University Community 2016 , 2017, 2018 and 2019 
 
