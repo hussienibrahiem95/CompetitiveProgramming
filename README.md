@@ -11,6 +11,7 @@ This repository contains source codes for some of the problems I solved on onlin
 # My Competitive Programming Trip
 
 ### Competitions Achievements
+*  **3<sup>st</sup>** Place in Codeforces Round Div2  2019 Out of 70+ team from UpperEgypt. ( Individual Contest )
 
 *  **3<sup>st</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest 2019 Out of 70+ team from UpperEgypt.
 
