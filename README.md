@@ -9,7 +9,6 @@ This repository contains source codes for some of the problems I solved on onlin
 
 * [ICPC Profile](https://icpc.baylor.edu/ICPCID/LDIDJS5NF3QD)
 # My Competitive Programming Trip
-
 ## Competitions Achievements
 
 <details open>
