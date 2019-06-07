@@ -85,7 +85,7 @@ This repository contains source codes for some of the problems I solved on onlin
 ## Coaching
 * **Coaching First Team in Olympiad Contest 2019** Problem Solving Contest Among all computer science faculties in Egypt.
 * **Coaching** most teams in ICPC Assiut University Community and there are **2 Teams Qualified ACM ICPC Arab & Africa Collegiate Programming Contest 2019**.
-* Coaching Senior problem solvers in ICPC Assiut University Community.
+* **Coaching** Senior problem solvers in ICPC Assiut University Community.
 * **Training Head** in ICPC Assiut University Community 2016 , 2017, 2018 and 2019.
 * **Managing training system** for junior,senior Problem Solvers in ICPC Assiut University Community.
 * **Mentoring junior trainees** to enhance their problem solving skills and prepare them to participate in programming contests in ICPC Assiut University Community.
