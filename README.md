@@ -11,6 +11,11 @@ This repository contains source codes for some of the problems I solved on onlin
 # My Competitive Programming Trip
 
 ## Competitions Achievements
+
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 #### In 2019
 *  **3<sup>rd</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest ,Out of 70+ team from UpperEgypt.
 *  **5<sup>th</sup>** Place in IEEE Minia SB ll Problem solving Competition ( Team Contest ).
