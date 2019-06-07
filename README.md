@@ -30,7 +30,7 @@ This repository contains source codes for some of the problems I solved on onlin
   <li><b>Participant</b> in ACM ICPC </b>Arab & Africa</b> Collegiate Programming Contest</li>
    <li><b>25<sup>th</sup></b> Place in ACM ICPC <b>Egyptian</b> Collegiate Programming Contest , Out of 160 team from Egypt (<b>Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest</b>)</li>
    <li><b>2<sup>nd</sup></b> Place in ACM ICPC <b>Assiut University</b> Collegiate programming contest, Out of 35 team from Assiut University. </li>
-   <li><b>13<sup>th</sup></b> Place in <b>Codeforces Round Div2</b>  Out of 4500+ Participant. ( Individual Contest)<a href="https://codeforces.com/contest/979/standings/participant/17575958#p17575958" rel="noopener noreferrer" target="_blank">Standing</a>
+   <li><b>13<sup>th</sup></b> Place in <b>Codeforces Round Div2</b>  Out of 4500+ Participant. ( Individual Contest)  <a href="https://codeforces.com/contest/979/standings/participant/17575958#p17575958">Standing</a>
 </li>
    <li><b>3<sup>rd</sup></b> Place in ACM ICPC <b>UpperEgypt</b> Collegiate programming contest, Out of 60+ team from UpperEgypt. </li>
    
@@ -57,9 +57,9 @@ This repository contains source codes for some of the problems I solved on onlin
   <li><b>Participant</b> in ACM ICPC <b>Arab & Africa</b> Collegiate Programming Contest.</li>
   <li><b>63<sup>th</sup></b> Place in ACM ICPC <b>Egyptian</b> Collegiate Programming Contest 2016 Out of 160 team from Egypt (Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest <b>First team qualified from Upper Egypt ever in the history of the contest</b>).</li>
   <li><b>20<sup>th</sup></b> Place in <b>Ain-Shams university local contest</b> ( Team Contest ).</li>
-  <li><b>1<sup>st</sup></b> Place in IEEEXtreme 2016 - ERROR Camp  ( Individual Contest ).  [Standing](https://codeforces.com/group/yDgfwmKNMS/contest/205446/standings/groupmates/true).</li>
+  <li><b>1<sup>st</sup></b> Place in IEEEXtreme 2016 - ERROR Camp  ( Individual Contest ).   <a href="https://codeforces.com/group/yDgfwmKNMS/contest/205446/standings/groupmates/true">Standing</a>.</li>
   <li><b>1<sup>st</sup></b> Place in ACM ICPC <b>UpperEgypt</b> Collegiate programming contest Out of 40+ team from UpperEgypt.</li>
-  <li><b>9<sup>th</sup></b> Place in Ain-Shams university level one contest ( Individual Contest ) [Standing](https://codeforces.com/group/iRheA985aq/contest/205996/standings/groupmates/true). </li>
+  <li><b>9<sup>th</sup></b> Place in Ain-Shams university level one contest ( Individual Contest ) <a href="https://codeforces.com/group/iRheA985aq/contest/205996/standings/groupmates/true">Standing</a>. </li>
  </ul>
  </p>
 </details>
