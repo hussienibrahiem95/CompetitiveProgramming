@@ -30,7 +30,7 @@ This repository contains source codes for some of the problems I solved on onlin
   <li><b>Participant</b> in ACM ICPC </b>Arab & Africa</b> Collegiate Programming Contest</li>
    <li><b>25<sup>th</sup></b> Place in ACM ICPC <b>Egyptian</b> Collegiate Programming Contest , Out of 160 team from Egypt (<b>Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest</b>)</li>
    <li><b>2<sup>nd</sup></b> Place in ACM ICPC <b>Assiut University</b> Collegiate programming contest, Out of 35 team from Assiut University. </li>
-   <li><b>13<sup>th</sup></b> Place in <b>Codeforces Round Div2</b>  Out of 4500+ Participant. ( Individual Contest)<a href="https://codeforces.com/contest/979/standings/participant/17575958#p17575958">Standing</a>
+   <li><b>13<sup>th</sup></b> Place in <b>Codeforces Round Div2</b>  Out of 4500+ Participant. ( Individual Contest)<a href="https://codeforces.com/contest/979/standings/participant/17575958#p17575958" target="_blank">Standing</a>
 </li>
    <li><b>3<sup>rd</sup></b> Place in ACM ICPC <b>UpperEgypt</b> Collegiate programming contest, Out of 60+ team from UpperEgypt. </li>
    
