@@ -41,6 +41,7 @@ This repository contains source codes for some of the problems I solved on onlin
  <summary><b>In 2017</b></summary>
   <p> 
  <ul>
+  <li> <b>A2OJ</b> Code Battle Finalis ( Individual Contest ) </li>
   <li><b>Participant</b> in ACM ICPC <b>Egyptian</b> Collegiate Programming Contest.</li>
   <li><b>1<sup>st</sup></b> Place in ACM ICPC <b>Assiut University</b> Collegiate programming contest, Out of 44 team from Assiut University.</li>
   <li><b>1<sup>st</sup></b> Place in ACM ICPC <b>UpperEgypt</b> Collegiate programming contest, Out of 70+ team from UpperEgypt. </li> 
