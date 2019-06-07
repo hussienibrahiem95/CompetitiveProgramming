@@ -7,7 +7,7 @@ This repository contains source codes for some of the problems I solved on onlin
 *  Recording some videos to explain solutions for some problems for juniors ,some topics like STL in C++
  (in Arabic)[YouTube playlist](https://www.youtube.com/channel/UCCH8yNJMxFsfWq7hJ-Ag4gg?view_as=subscriber) 
 
-* [ICPC Profile ] (https://icpc.baylor.edu/ICPCID/LDIDJS5NF3QD)
+* [ICPC Profile](https://icpc.baylor.edu/ICPCID/LDIDJS5NF3QD)
 # My Competitive Programming Trip
 
 ### Competitions Achievements
