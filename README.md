@@ -12,7 +12,7 @@ This repository contains source codes for some of the problems I solved on onlin
 
 ## Competitions Achievements
 
-<details>
+<details open>
  <summary><b>In 2019</b></summary>
   <p> 
  <ul>
@@ -23,7 +23,7 @@ This repository contains source codes for some of the problems I solved on onlin
 </details>
 
 
-<details>
+<details open>
  <summary><b>In 2018</b></summary>
   <p> 
  <ul>
@@ -37,7 +37,7 @@ This repository contains source codes for some of the problems I solved on onlin
  </p>
 </details>
 
-<details>
+<details open>
  <summary><b>In 2017</b></summary>
   <p> 
  <ul>
@@ -49,7 +49,7 @@ This repository contains source codes for some of the problems I solved on onlin
  </p>
 </details>
 
-<details>
+<details open>
  <summary><b>In 2019</b></summary>
   <p> 
  <ul>
@@ -63,7 +63,7 @@ This repository contains source codes for some of the problems I solved on onlin
  </p>
 </details>
 
-<details>
+<details open>
  <summary><b>In 2019</b></summary>
   <p> 
  <ul>
