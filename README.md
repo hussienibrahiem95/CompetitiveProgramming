@@ -22,32 +22,55 @@ This repository contains source codes for some of the problems I solved on onlin
  </p>
 </details>
 
-#### In 2018
-*  **Participant** in ACM ICPC **Arab & Africa** Collegiate Programming Contest.
-*  **25<sup>th</sup>** Place in ACM ICPC **Egyptian** Collegiate Programming Contest , Out of 160 team from Egypt (**Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest**).
-*  **2<sup>nd</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest, Out of 35 team from Assiut University.
-*  **13<sup>th</sup>** Place in **Codeforces Round Div2**  Out of 4500+ Participant. ( Individual Contest ) [Standing](https://codeforces.com/contest/979/standings/participant/17575958#p17575958).
-*  **3<sup>rd</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest, Out of 60+ team from UpperEgypt.
 
-#### In 2017
-*  **Participant** in ACM ICPC **Egyptian** Collegiate Programming Contest.
-*  **1<sup>st</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest, Out of 44 team from Assiut University.
-*  **1<sup>st</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest, Out of 70+ team from UpperEgypt.
-*  **Semi-finalist**, Codechef SNAKDOWN. Qualified to semi-finals out of +19K teams around the world.
+<details>
+ <summary><b>In 2018</b></summary>
+  <p> 
+ <ul>
+  <li><b>Participant</b> in ACM ICPC </b>Arab & Africa</b> Collegiate Programming Contest</li>
+   <li>25<sup>th</sup>** Place in ACM ICPC **Egyptian** Collegiate Programming Contest , Out of 160 team from Egypt (**Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest**)</li>
+   <li>2<sup>nd</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest, Out of 35 team from Assiut University. </li>
+   <li>13<sup>th</sup>** Place in **Codeforces Round Div2**  Out of 4500+ Participant. ( Individual Contest ) [Standing](https://codeforces.com/contest/979/standings/participant/17575958#p17575958). </li>
+   <li>3<sup>rd</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest, Out of 60+ team from UpperEgypt. </li>
+   
+ </ul>
+ </p>
+</details>
 
+<details>
+ <summary><b>In 2017</b></summary>
+  <p> 
+ <ul>
+   <li>Participant** in ACM ICPC **Egyptian** Collegiate Programming Contest.</li>
+   <li>1<sup>st</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest, Out of 44 team from Assiut University.</li>
+  <li>1<sup>st</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest, Out of 70+ team from UpperEgypt. </li> 
+ <li>Semi-finalist**, Codechef SNAKDOWN. Qualified to semi-finals out of +19K teams around the world. </li>
+ </ul>
+ </p>
+</details>
 
-#### In 2016
-*  **Participant** in ACM ICPC **Arab & Africa** Collegiate Programming Contest.
-*  **63<sup>th</sup>** Place in ACM ICPC **Egyptian** Collegiate Programming Contest 2016 Out of 160 team from Egypt (Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest **First team qualified from Upper Egypt ever in the history of the contest**).
-*  **20<sup>th</sup>** Place in Ain-Shams university local contest ( Team Contest ).
-*  **1<sup>st</sup>** Place in IEEEXtreme 2016 - ERROR Camp  ( Individual Contest ).  [Standing](https://codeforces.com/group/yDgfwmKNMS/contest/205446/standings/groupmates/true).
-*  **1<sup>st</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest Out of 40+ team from UpperEgypt.
-*  **9<sup>th</sup>** Place in Ain-Shams university level one contest ( Individual Contest ) [Standing](https://codeforces.com/group/iRheA985aq/contest/205996/standings/groupmates/true).
+<details>
+ <summary><b>In 2019</b></summary>
+  <p> 
+ <ul>
+   <li>Participant** in ACM ICPC **Arab & Africa** Collegiate Programming Contest.</li>
+   <li>63<sup>th</sup>** Place in ACM ICPC **Egyptian** Collegiate Programming Contest 2016 Out of 160 team from Egypt (Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest **First team qualified from Upper Egypt ever in the history of the contest**).</li>
+   <li>20<sup>th</sup>** Place in Ain-Shams university local contest ( Team Contest ).</li>
+   <li>1<sup>st</sup>** Place in IEEEXtreme 2016 - ERROR Camp  ( Individual Contest ).  [Standing](https://codeforces.com/group/yDgfwmKNMS/contest/205446/standings/groupmates/true).</li>
+   <li>1<sup>st</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest Out of 40+ team from UpperEgypt.</li>
+  <li>9<sup>th</sup>** Place in Ain-Shams university level one contest ( Individual Contest ) [Standing](https://codeforces.com/group/iRheA985aq/contest/205996/standings/groupmates/true). </li>
+ </ul>
+ </p>
+</details>
 
-
-#### In 2015
-* **Participant** in ACM ICPC **Egyptian** Collegiate Programming Contest.
-
+<details>
+ <summary><b>In 2019</b></summary>
+  <p> 
+ <ul>
+  <li> <b>Participant</b> in ACM ICPC <b>Egyptian</b> Collegiate Programming Contest. </li>
+ </ul>
+ </p>
+</details>
 
 ## Judge, Chief Judge, Problem Setter
 
