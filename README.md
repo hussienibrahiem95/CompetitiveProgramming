@@ -12,13 +12,15 @@ This repository contains source codes for some of the problems I solved on onlin
 
 ## Competitions Achievements
 
-Markup : <details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-         </details>
-#### In 2019
-*  **3<sup>rd</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest ,Out of 70+ team from UpperEgypt.
-*  **5<sup>th</sup>** Place in IEEE Minia SB ll Problem solving Competition ( Team Contest ).
+<details>
+ <summary><b>In 2019</b></summary>
+  <p> 
+ <ul>
+   <li><b>3<sup>rd</sup></b> Place in ACM ICPC <b>UpperEgypt</b> Collegiate programming contest ,Out of 70+ team from UpperEgypt.</li>
+   <li><b>5<sup>th</sup></b> Place in IEEE Minia SB ll Problem solving Competition ( Team Contest )</li>
+ </ul>
+ </p>
+</details>
 
 #### In 2018
 *  **Participant** in ACM ICPC **Arab & Africa** Collegiate Programming Contest.
