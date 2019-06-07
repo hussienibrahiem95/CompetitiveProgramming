@@ -77,12 +77,12 @@ This repository contains source codes for some of the problems I solved on onlin
 
 *  **Problem Setter** of Most of problems in **Assiut University Training - Newcomers Group** , it's a good guide to follow that will let you master the basic concepts of programming and math, with more than 200 problems created and picked carefully and sorted according to their difficulties , There are 1K+ Particpant in group from over the world [Group Link](https://codeforces.com/group/MWSDmqGsZm/contests). [Sheet Link](https://docs.google.com/spreadsheets/d/12XlGl2Nae1NXRDNet_bGQ2HM2O3kq-9FS0Jm2pDwFyg/edit#gid=1683044666) There exist videos and references on each topic in the sheet.
  
-*  Chief Judge and Problem Setter in **Olympics of Computer and information Contest Assiut 2019** , Problem Solving Contest Among all computer science faculties in Egypt   [Standing](https://codeforces.com/group/B45Q3zlpw8/contest/238002/standings/groupmates/true) , [Problems](https://codeforces.com/group/B45Q3zlpw8/contest/238002/problems).
-*  Chief Judge and Problem Setter in **Clash of coders Contest 2019** [Standing](https://codeforces.com/group/6xgKFebZ67/contest/232911/standings/groupmates/true) , [Problems](https://codeforces.com/group/6xgKFebZ67/contest/232911/problems)
+*  **Chief Judge and Problem Setter in Olympics of Computer and information Contest Assiut 2019** , Problem Solving Contest Among all computer science faculties in Egypt   [Standing](https://codeforces.com/group/B45Q3zlpw8/contest/238002/standings/groupmates/true) , [Problems](https://codeforces.com/group/B45Q3zlpw8/contest/238002/problems).
+*  **Chief Judge and Problem Setter in Clash of coders Contest 2019** [Standing](https://codeforces.com/group/6xgKFebZ67/contest/232911/standings/groupmates/true) , [Problems](https://codeforces.com/group/6xgKFebZ67/contest/232911/problems)
 
-*  Preparing and judging programming contests online and onsite for Training ( juniors , seniors ) in ICPC Assiut University Community.
+*  **Preparing and judging programming contests** online and onsite for Training ( juniors , seniors ) in ICPC Assiut University Community.
 
-*  Judge & Problem Setter in Programming Champions League 2018 .it was 5 Programming Contests between many universities from Egypt to decide the best [Link Group](https://codeforces.com/group/r2KqHsBZRP/contests).
+*  **Judge & Problem Setter** in Programming Champions League 2018 .it was 5 Programming Contests between many universities from Egypt to decide the best [Link Group](https://codeforces.com/group/r2KqHsBZRP/contests).
 
 ## Coaching
 * **Coaching First Team in Olympiad Contest 2019** Problem Solving Contest Among all computer science faculties in Egypt.
