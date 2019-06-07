@@ -10,7 +10,7 @@ This repository contains source codes for some of the problems I solved on onlin
 * [ICPC Profile](https://icpc.baylor.edu/ICPCID/LDIDJS5NF3QD)
 # My Competitive Programming Trip
 
-### Competitions Achievements
+## Competitions Achievements
 #### In 2019
 *  **3<sup>rd</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest ,Out of 70+ team from UpperEgypt.
 *  **5<sup>th</sup>** Place in IEEE Minia SB ll Problem solving Competition ( Team Contest ).
@@ -19,7 +19,7 @@ This repository contains source codes for some of the problems I solved on onlin
 *  **Participant** in ACM ICPC **Arab & Africa** Collegiate Programming Contest.
 *  **25<sup>th</sup>** Place in ACM ICPC **Egyptian** Collegiate Programming Contest , Out of 160 team from Egypt (**Qualified to ACM ICPC Arab & Africa Collegiate Programming Contest**).
 *  **2<sup>nd</sup>** Place in ACM ICPC **Assiut University** Collegiate programming contest, Out of 35 team from Assiut University.
-*  **13<sup>th</sup>** Place in Codeforces Round Div2  Out of 4500+ Participant. ( Individual Contest ) [Standing](https://codeforces.com/contest/979/standings/participant/17575958#p17575958).
+*  **13<sup>th</sup>** Place in **Codeforces Round Div2**  Out of 4500+ Participant. ( Individual Contest ) [Standing](https://codeforces.com/contest/979/standings/participant/17575958#p17575958).
 *  **3<sup>rd</sup>** Place in ACM ICPC **UpperEgypt** Collegiate programming contest, Out of 60+ team from UpperEgypt.
 
 #### In 2017
@@ -42,21 +42,21 @@ This repository contains source codes for some of the problems I solved on onlin
 * **Participant** in ACM ICPC **Egyptian** Collegiate Programming Contest.
 
 
-### Judge, Chief Judge, Problem Setter
+## Judge, Chief Judge, Problem Setter
+
+*  Chief Judge and Problem Setter in **Olympics of Computer and information Contest Assiut 2019** , Problem Solving Contest Among all computer science faculties in Egypt   [Standing](https://codeforces.com/group/B45Q3zlpw8/contest/238002/standings/groupmates/true) , [Problems](https://codeforces.com/group/B45Q3zlpw8/contest/238002/problems).
+*  Chief Judge and Problem Setter in **Clash of coders Contest 2019** [Standing](https://codeforces.com/group/6xgKFebZ67/contest/232911/standings/groupmates/true) , [Problems](https://codeforces.com/group/6xgKFebZ67/contest/232911/problems)
 
 *  Preparing and judging programming contests online and onsite for Training ( juniors , seniors ) in ICPC Assiut University Community.
 
-*  Chief Judge and Problem Setter in Olympics of Computer and information Contest Assiut 2019  [Standing](https://codeforces.com/group/B45Q3zlpw8/contest/238002/standings/groupmates/true) , [Problems](https://codeforces.com/group/B45Q3zlpw8/contest/238002/problems)
-
-*  Chief Judge and Problem Setter Clash of coders Contest 2019 [Standing](https://codeforces.com/group/6xgKFebZ67/contest/232911/standings/groupmates/true) , [Problems](https://codeforces.com/group/6xgKFebZ67/contest/232911/problems)
-
 *  Judge & Problem Setter in Programming Champions League 2018 .it was 5 Programming Contests between many universities from Egypt to decide the best [Link Group](https://codeforces.com/group/r2KqHsBZRP/contests).
 
-### Coaching
-* Coaching Senior problem solvers in ICPC Assiut University Community.
-* Managing training system for junior,senior Problem Solvers in ICPC Assiut University Community.
-* Mentoring junior trainees to enhance their problem solving skills and prepare them to participate in programming contests.
-* Coaching First Team in Olympiad Contest 2019 Problem Solving Contest Among all computer science faculties in Egypt.
+## Coaching
+* Coaching **First Team in Olympiad Contest 2019** Problem Solving Contest Among all computer science faculties in Egypt.
 * Coaching most teams in ICPC Assiut University Community and there are 2 Teams Qualified ACM ICPC Arab & Africa Collegiate Programming Contest 2019.
-* Training Head in ICPC Assiut University Community 2016 , 2017, 2018 and 2019 
+* Coaching Senior problem solvers in ICPC Assiut University Community.
+* Training Head in ICPC Assiut University Community 2016 , 2017, 2018 and 2019.
+* Managing training system for junior,senior Problem Solvers in ICPC Assiut University Community.
+* Mentoring junior trainees to enhance their problem solving skills and prepare them to participate in programming contests in ICPC Assiut University Community.
+
 
